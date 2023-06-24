@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4659CE6D-5BD8-4DEC-933D-120D4281CD08"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "559DCECA-1DA7-4649-8766-711177F8BB36"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftfulFirebaseBootcamp/Firestore/UserManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "init(userId:isAnonymous:email:photoUrl:dateCreated:isPremium:preferences:favouriteMovie:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "559DCECA-1DA7-4649-8766-711177F8BB36 - 1c9c495811d5f67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftfulFirebaseBootcamp.DBUser.init(userId: Swift.String, isAnonymous: Swift.Optional&lt;Swift.Bool&gt;, email: Swift.Optional&lt;Swift.String&gt;, photoUrl: Swift.Optional&lt;Swift.String&gt;, dateCreated: Swift.Optional&lt;Foundation.Date&gt;, isPremium: Swift.Optional&lt;Swift.Bool&gt;) -&gt; SwiftfulFirebaseBootcamp.DBUser"
+                  moduleName = "SwiftfulFirebaseBootcamp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chetanchoudhary/Desktop/Development/SwiftfulFirebaseBootcamp/SwiftfulFirebaseBootcamp/Firestore/UserManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "559DCECA-1DA7-4649-8766-711177F8BB36 - 1c9c495811d5f67"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftfulFirebaseBootcamp.DBUser.init(userId: Swift.String, isAnonymous: Swift.Optional&lt;Swift.Bool&gt;, email: Swift.Optional&lt;Swift.String&gt;, photoUrl: Swift.Optional&lt;Swift.String&gt;, dateCreated: Swift.Optional&lt;Foundation.Date&gt;, isPremium: Swift.Optional&lt;Swift.Bool&gt;) -&gt; SwiftfulFirebaseBootcamp.DBUser"
+                  moduleName = "SwiftfulFirebaseBootcamp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chetanchoudhary/Desktop/Development/SwiftfulFirebaseBootcamp/SwiftfulFirebaseBootcamp/Firestore/UserManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA189692-1B09-43A3-845D-845A603DB01E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftfulFirebaseBootcamp/Firestore/UserManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "DBUser"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
